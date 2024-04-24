@@ -1,7 +1,6 @@
-### Hi there 👋
-<div id="header" align="center"> 
+<h1 align="center"> ### Hi there 👋 </h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWV1d3dvNTJrNGMxM3J0ZzlpN3JzamJxaGI0bGtwOWxoMXRkbGt6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif" width="400"/>
-</div>
+<h3 align="center">A passionate fullstack developer in constantly learning </h3>
 
 
 **Danibece1/Danibece1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
